@@ -70,7 +70,7 @@ with col2:
         if st.button("Play music"):
             st.write("Playing music to cheer you up!")
             st.session_state.current_emotion = "Happy"
-            time.sleep(3)
+            time.sleep(1)
 
             if st.button("Return to Home"):
                 st.session_state.question_index = None    

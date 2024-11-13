@@ -113,4 +113,4 @@ with col2:
     
  
 # time.sleep(5)
-st.experimental_rerun()
+# st.experimental_rerun()
